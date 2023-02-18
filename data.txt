@@ -1,0 +1,7 @@
+200;400;600;800;1000
+Miasta świata;Tokio;Sydney;Nowy Jork;Paryż;Rio de Janeiro
+Filmy akcji;Terminator;Matrix;John Wick;Szybcy i Wściekli;Skarb Narodów
+Gry komputerowe;Wiedźmin;Grand Theft Auto;Assassin's Creed;Call of Duty;Tomb Raider
+Zwierzęta;Lew;Tygrys;Słoń;Orangutan;Niedźwiedź
+Słynne osoby;Michael Jackson;Albert Einstein;Steve Jobs;Elvis Presley;Marilyn Monroe
+Znane marki samochodów;Ford;Mercedes;Toyota;Volkswagen;Tesla
